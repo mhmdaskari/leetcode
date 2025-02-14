@@ -9,7 +9,7 @@ class Solution(object):
         :rtype: bool
         \\\
 
-        stack_s = []
+        stack_s = [] #initialization
 
         hash_map = {\)\:\(\, \]\:\[\, \}\:\{\}
         # left = [\(\, \[\, \{\]
